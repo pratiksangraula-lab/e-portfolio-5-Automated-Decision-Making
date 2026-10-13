@@ -1,5 +1,5 @@
 # e-portfolio-5-Automated-Decision-Making
-COIT11223 Assessment 3 Q2: e-portfolio on Automated Decision-Making in government (Pratik Sangraula, 12324885)
+COIT11223 Assessment 3 Q2: e-portfolio on Automated Decision Making in government (Pratik Sangraula, 12324885)
 
 
 Six items that show the process through which I have learned about ADM in government. The first three items cover the issue of Robodebt in Australia in three aspects: legal issues, accountability and cost. The other three show similar issues in the Netherlands, Sweden, and the UK. Before starting this unit, I used to see ADM as a neutral instrument that increased efficiency in government. Now I see it as a series of human decisions that define whom to assist, whom to investigate and whom to ignore.
