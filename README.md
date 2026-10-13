@@ -15,7 +15,7 @@ Six items that show the process through which I have learned about ADM in govern
 https://doi.org/10.38127/uqlj.v43i2.8311
 
 ### Summary of the artefact
-According to Hildenbrand (2024, p. 183), automated decision-making can be defined as “the use of computer algorithm[s] to reach a decision or recommendation”. Relying on Robodebt as her primary example, Hildenbrand makes the case that Australian privacy and data protection legislation has shortcomings when used in conjunction with novel data technologies by the government, and human rights legislation could remedy these shortcomings. Hildenbrand is emphatic that "Robodebt caused considerable injustice and harm to people" (Hildenbrand 2024, p. 180).
+According to Hildenbrand (2024, p. 183), automated decision making can be defined as “the use of computer algorithm[s] to reach a decision or recommendation”. Relying on Robodebt as her primary example, Hildenbrand makes the case that Australian privacy and data protection legislation has shortcomings when used in conjunction with novel data technologies by the government, and human rights legislation could remedy these shortcomings. Hildenbrand is emphatic that "Robodebt caused considerable injustice and harm to people" (Hildenbrand 2024, p. 180).
 
 ### Justification on why I chose the artefact
 This particular article was chosen because it helped me define precisely what ADM is and how the law is lagging behind in keeping up with technology. The link with social contract theory is the idea that people delegate authority to the government in exchange for protection of their rights. If there are any loopholes in the law, this can be exploited, as with Robodebt.
